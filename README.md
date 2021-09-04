@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhinav0310
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms; JavaScript
 - 📫 Email: iamabhi0310@gmail.com
 
 <!---
